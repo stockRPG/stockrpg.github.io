@@ -1,0 +1,11 @@
+body {
+	margin-left: 14%;
+	margin-top: 5%;
+}
+
+canvas {
+  background-size: cover;
+}
+#myHead {
+	font-size: 100px;
+}
